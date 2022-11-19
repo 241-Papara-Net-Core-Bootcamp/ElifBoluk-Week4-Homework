@@ -1,5 +1,5 @@
 # ElifBoluk-Week4-Home
-.Net Core + Dapper + AutoMapper
+.Net Core CRUD Operation + Dapper + AutoMapper
 
 Dapper, Stackoverflow tarafından geliştirilen ve birçok veri tabanını destekleyen ORM aracıdır. Performanslı bir ORM aracı olduğu için genellikle büyük yapılarda kullanılmaktadır.
 
